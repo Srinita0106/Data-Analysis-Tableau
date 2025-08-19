@@ -3,7 +3,7 @@ Check out my Netflix analysis Tableau dashboard at the following link: https://p
 
 ## Netflix Movies & TV Shows Tableau Dashboard
 
-This Tableau project provides *interactive visual analytics* for Netflix’s worldwide catalog of movies and TV shows. The dashboard is designed for quick insights into content distribution, ratings, genres, and trends. It is ideal for business analysts, data enthusiasts, and recruiters wanting a snapshot of your dashboard and data storytelling skills.
+This Tableau project provides *interactive visual analytics* for Netflix’s worldwide catalog of movies and TV shows. The dashboard is designed for quick insights into content distribution, ratings, genres, and trends. 
 
 ***
 
